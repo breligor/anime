@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/anime/static/css/main.0138e183.css",
+    "main.js": "/anime/static/js/main.eb0e5030.js",
+    "static/js/453.ed3810f9.chunk.js": "/anime/static/js/453.ed3810f9.chunk.js",
+    "static/media/png-transparent-sand-sandy-sandy-beach-beach.png": "/anime/static/media/png-transparent-sand-sandy-sandy-beach-beach.1560086e0df6f35971cc.png",
+    "static/media/crab.gif": "/anime/static/media/crab.0dc90436485985bbe055.gif",
+    "static/media/grass3.png": "/anime/static/media/grass3.463e5e9032a5fbe32cf5.png",
+    "static/media/3860159.png": "/anime/static/media/3860159.8f4a39a9dbefd100b399.png",
+    "static/media/png-clipart-green-algae-green-algae-plant-seaweed-plant-leaf-plant-stem.png": "/anime/static/media/png-clipart-green-algae-green-algae-plant-seaweed-plant-leaf-plant-stem.b8bd68bb09fd510f6ac4.png",
+    "static/media/fish4.png": "/anime/static/media/fish4.cbc632cfdfe758fd5e52.png",
+    "static/media/grass2.png": "/anime/static/media/grass2.8a9aa751296165a736a6.png",
+    "static/media/octo2.png": "/anime/static/media/octo2.f016c0556374e4e04157.png",
+    "static/media/rock.png": "/anime/static/media/rock.12774e15e7ecedc4b2f5.png",
+    "static/media/fish3.png": "/anime/static/media/fish3.a50174288d4af64e087e.png",
+    "static/media/fish2.png": "/anime/static/media/fish2.d2e24c1cc5e0bc72ad20.png",
+    "static/media/castle.png": "/anime/static/media/castle.b343b8342700d174ea55.png",
+    "static/media/170455.png": "/anime/static/media/170455.71d1f0655b765f84c6e1.png",
+    "index.html": "/anime/index.html",
+    "main.0138e183.css.map": "/anime/static/css/main.0138e183.css.map",
+    "main.eb0e5030.js.map": "/anime/static/js/main.eb0e5030.js.map",
+    "453.ed3810f9.chunk.js.map": "/anime/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0138e183.css",
+    "static/js/main.eb0e5030.js"
+  ]
+}
