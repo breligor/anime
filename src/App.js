@@ -1,24 +1,15 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import WaterFill from './WaterFill';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <header className="App-header">
+          <WaterFill text="" fillHeight={95} waveHeight={10} />
+            <div className="container2"></div>
+        </header>
+      </div>
   );
 }
 
